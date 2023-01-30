@@ -1,0 +1,13 @@
+D:\A41174\QLCT\QLCT\bin\Debug\QLCT.exe.config
+D:\A41174\QLCT\QLCT\bin\Debug\QLCT.exe
+D:\A41174\QLCT\QLCT\bin\Debug\QLCT.pdb
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.csprojResolveAssemblyReference.cache
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.Form1.resources
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.FormAddExpense.resources
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.Properties.Resources.resources
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.csproj.GenerateResource.Cache
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.exe
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.pdb
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.FormAddIncome.resources
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.FormAddType.resources
+D:\A41174\QLCT\QLCT\obj\Debug\QLCT.FormExpenseHistory.resources
